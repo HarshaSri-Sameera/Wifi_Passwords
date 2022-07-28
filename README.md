@@ -1,2 +1,2 @@
 
-## Get the wifi passwords of previously used networks / saved networks in your PC.
+## Get the wifi passwords of previously used networks or saved networks in your PC.
